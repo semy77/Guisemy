@@ -1,98 +1,51 @@
+
 [
-   {
-    "uid": "8382918417",
-    "password": "678AD8D0A5EF2E7B9533FE035C85E7F2D819837167A3480643DAB074FE4E4CA6",
-    "name": "SEMY-Z⁰⁴⁷",
-    "account_id": "18963028168",
-    "open_id": "5ad1dbd9724ad4886894ed9e018896aa",
-    "access_token": "e806cb0cbbf4ee4b159f8c323a0e29f4b16d71a0285c169f4b7e747a2a4b990c",
+  {
+    "uid": "8397234958",
+    "password": "9A2D0427CCE61B67717BD91AE25490A12B90872EAC69014B44A720FE19DD0985",
+    "name": "SEMY-SD⁰⁰¹",
+    "account_id": "18995725572",
+    "open_id": "c112d3351aded40d25d27f7a4bb9be03",
+    "access_token": "0587b44202fc56b869f43603145980aab3cc77e07632d711bcd80dc78ed16dfb",
     "platform": "4",
     "region": "IND",
     "status": "full_login",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAyODE2OCwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXTyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjVhZDFkYmQ5NzI0YWQ0ODg2ODk0ZWQ5ZTAxODg5NmFhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTg0MTcsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAwODh9.FdVms4m5-odHaE9yirRcP7Midkgmc-xlYW3k59KqB0I",
-    "server_url": "https://client.ind.freefiremobile.com",
-    "server_time": 1793451288,
-    "release_version": "OB55",
-    "game_version": "1.134.15",
-    "device": {
-      "id": "Google|ee4b6f24-7ea7-479c-8a3b-c90cbfaa53e9",
-      "brand": "Xiaomi",
-      "model": "21121210G",
-      "android": "Android OS 12 / API-31",
-      "slot": 1,
-      "profile_index": 61
-    }
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk5NTcyNTU3Miwibmlja25hbWUiOiJZaUI0WVJScko0SGppSWJuMUthQSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImMxMTJkMzM1MWFkZWQ0MGQyNWQyN2Y3YTRiYjliZTAzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNiIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzOTcyMzQ5NTgsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM2NzE0NDV9.uR3CSRkP3pPcNHf5Ew4j5K1LaYgybD734WX4fP4hLg0"
   },
   {
-    "uid": "8382918835",
-    "password": "EC750B9928F9B01A91729CFF30D4F3E9D6E1A317FFD67329077BB4EC3F591596",
-    "name": "SEMY-Z⁰⁴⁸",
-    "account_id": "18963029576",
-    "open_id": "b696fc238ee1dcfcb8aac81f66fda170",
-    "access_token": "2bdb30e03904a6f474e6c3685ac2f3b965fd915906deb6132a274d817d9fe2ed",
+    "uid": "8397236245",
+    "password": "20630C9896B00B409A0B5D7C88FB37E1C1EF788FEB98530DAFB5FBC158684908",
+    "name": "SEMY-SD⁰⁰²",
+    "account_id": "18995726987",
+    "open_id": "11c469f6096240ed53993066d75c337f",
+    "access_token": "979b762e1e59ad610f4df6597ab5f98da3951952548d5791a08582b843390ebd",
     "platform": "4",
     "region": "IND",
     "status": "full_login",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAyOTU3Niwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXQiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImI2OTZmYzIzOGVlMWRjZmNiOGFhYzgxZjY2ZmRhMTcwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTg4MzUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAwOTR9.0UwSvVELPER2Hzu9o1rWMn51gV_JLE7CAFidJ_cJ3wo",
-    "server_url": "https://client.ind.freefiremobile.com",
-    "server_time": 1793451294,
-    "release_version": "OB55",
-    "game_version": "1.134.15",
-    "device": {
-      "id": "Google|abdbf908-e735-4a7a-8f20-9809bb854cda",
-      "brand": "Xiaomi",
-      "model": "M2101K9G",
-      "android": "Android OS 13 / API-33",
-      "slot": 1,
-      "profile_index": 53
-    }
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk5NTcyNjk4Nywibmlja25hbWUiOiJZaUI0WVJScko0SGppSWJuMUthTCIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjExYzQ2OWY2MDk2MjQwZWQ1Mzk5MzA2NmQ3NWMzMzdmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNiIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzOTcyMzYyNDUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM2NzE0NTB9.wNSNyZLPwAf89z6PuoKckwr3511Oo33Sq3kLwH3KXkI"
   },
   {
-    "uid": "8382919173",
-    "password": "A67DAB33FF03594049C2A2EBFAD38A12FE9B9B8EE0005F941AD992295C4F8624",
-    "name": "SEMY-Z⁰⁴⁹",
-    "account_id": "18963030915",
-    "open_id": "acda43056a56e56bdaf7db6b812e27d5",
-    "access_token": "17971f903dc15292a0af90040fb1c56278fb1edce607e65495897f10dc4ad83e",
+    "uid": "8397237880",
+    "password": "2C7066F51F079815440A63A10AF8968C7ABB9833A518112E4DCF7D9061D152F9",
+    "name": "SEMY-SD⁰⁰³",
+    "account_id": "18995729017",
+    "open_id": "7874764dacd993d5b558480e30c48fba",
+    "access_token": "f8f407131bcae92e9da18e345dfbc10ec46e2192b12cb762c1a4da32b1f6fa91",
     "platform": "4",
     "region": "IND",
     "status": "full_login",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAzMDkxNSwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXQSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImFjZGE0MzA1NmE1NmU1NmJkYWY3ZGI2YjgxMmUyN2Q1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTkxNzMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAxMDB9._ArUf568D8DKJvrq2HMs4w6FxEhYtiJ9jgVbVYYSgmA",
-    "server_url": "https://client.ind.freefiremobile.com",
-    "server_time": 1793451300,
-    "release_version": "OB55",
-    "game_version": "1.134.15",
-    "device": {
-      "id": "Google|889ca2ca-6d43-4cc8-87a0-cefab323fa1e",
-      "brand": "Samsung",
-      "model": "SM-G780G",
-      "android": "Android OS 13 / API-33",
-      "slot": 1,
-      "profile_index": 39
-    }
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk5NTcyOTAxNywibmlja25hbWUiOiJZaUI0WVJScko0SGppSWJuMUthSyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6Ijc4NzQ3NjRkYWNkOTkzZDViNTU4NDgwZTMwYzQ4ZmJhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNiIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzOTcyMzc4ODAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM2NzE0NTh9.nWeA3FqCxI8dhBSuUJsPkyU6Pof4c74uxMkif56vXAY"
   },
   {
-    "uid": "8382919633",
-    "password": "EFD3DF824AF7D536BFDA53FC7390E40631FE011B2B5274E79E37BDDD0066EA11",
-    "name": "SEMY-Z⁰⁵⁰",
-    "account_id": "18963032130",
-    "open_id": "1673719384b1e24981a396f7ba56e9bb",
-    "access_token": "f8a5a885e2cfea9eed69b20ba051fc013b9a722997899581c29371e12a2889c4",
+    "uid": "8397239351",
+    "password": "D07B83E41218CC12B00297C4B3BD59A35DD6B5BCCFE55801245D2B8131DB1534",
+    "name": "SEMY-SD⁰⁰⁴",
+    "account_id": "18995730937",
+    "open_id": "a16a281a559ce536d10e2511c0d59d9d",
+    "access_token": "790db2d9efdc1460c1ec8028d611c7fd54b601e993d46c128b2830ebdf317107",
     "platform": "4",
     "region": "IND",
     "status": "full_login",
-    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAzMjEzMCwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhUaHVXSiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjE2NzM3MTkzODRiMWUyNDk4MWEzOTZmN2JhNTZlOWJiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTk2MzMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAxMDV9.7B7mjyxT186j62wJgAW-KBsVymTBKssFOpsksmK4FBg",
-    "server_url": "https://client.ind.freefiremobile.com",
-    "server_time": 1793451305,
-    "release_version": "OB55",
-    "game_version": "1.134.15",
-    "device": {
-      "id": "Google|3bc26c18-82cc-449e-bdac-fdfbd48ae9dc",
-      "brand": "Xiaomi",
-      "model": "23076RN4BI",
-      "android": "Android OS 14 / API-34",
-      "slot": 1,
-      "profile_index": 78
-    }
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk5NTczMDkzNywibmlja25hbWUiOiJZaUI0WVJScko0SGppSWJuMUlhNGhnPT0iLCJub3RpX3JlZ2lvbiI6IklORCIsImxvY2tfcmVnaW9uIjoiSU5EIiwiZXh0ZXJuYWxfaWQiOiJhMTZhMjgxYTU1OWNlNTM2ZDEwZTI1MTFjMGQ1OWQ5ZCIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMzQuMTYiLCJjbGllbnRfdmVyc2lvbl9jb2RlIjoiMjAxOTEyMTIyOSIsImVtdWxhdG9yX3Njb3JlIjowLCJpc19lbXVsYXRvciI6ZmFsc2UsImNvdW50cnlfY29kZSI6IklOIiwiZXh0ZXJuYWxfdWlkIjo4Mzk3MjM5MzUxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6MCwibG9ja19yZWdpb25fdGltZSI6MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiI3NDI4YjI1M2RlZmMxNjQwMThjNjA0YTFlYmJmZWJkZiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6ImFuZHJvaWQiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjU1IiwiZXhwIjoxNzkzNjcxNDY2fQ.W0ASIcM3bBftD73Qpo8XJhgoyaezXcIq-N4K6ye5vEU"
   }
 ]
