@@ -1,0 +1,98 @@
+[
+   {
+    "uid": "8382918417",
+    "password": "678AD8D0A5EF2E7B9533FE035C85E7F2D819837167A3480643DAB074FE4E4CA6",
+    "name": "SEMY-Z⁰⁴⁷",
+    "account_id": "18963028168",
+    "open_id": "5ad1dbd9724ad4886894ed9e018896aa",
+    "access_token": "e806cb0cbbf4ee4b159f8c323a0e29f4b16d71a0285c169f4b7e747a2a4b990c",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAyODE2OCwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXTyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjVhZDFkYmQ5NzI0YWQ0ODg2ODk0ZWQ5ZTAxODg5NmFhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTg0MTcsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAwODh9.FdVms4m5-odHaE9yirRcP7Midkgmc-xlYW3k59KqB0I",
+    "server_url": "https://client.ind.freefiremobile.com",
+    "server_time": 1793451288,
+    "release_version": "OB55",
+    "game_version": "1.134.15",
+    "device": {
+      "id": "Google|ee4b6f24-7ea7-479c-8a3b-c90cbfaa53e9",
+      "brand": "Xiaomi",
+      "model": "21121210G",
+      "android": "Android OS 12 / API-31",
+      "slot": 1,
+      "profile_index": 61
+    }
+  },
+  {
+    "uid": "8382918835",
+    "password": "EC750B9928F9B01A91729CFF30D4F3E9D6E1A317FFD67329077BB4EC3F591596",
+    "name": "SEMY-Z⁰⁴⁸",
+    "account_id": "18963029576",
+    "open_id": "b696fc238ee1dcfcb8aac81f66fda170",
+    "access_token": "2bdb30e03904a6f474e6c3685ac2f3b965fd915906deb6132a274d817d9fe2ed",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAyOTU3Niwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXQiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImI2OTZmYzIzOGVlMWRjZmNiOGFhYzgxZjY2ZmRhMTcwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTg4MzUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAwOTR9.0UwSvVELPER2Hzu9o1rWMn51gV_JLE7CAFidJ_cJ3wo",
+    "server_url": "https://client.ind.freefiremobile.com",
+    "server_time": 1793451294,
+    "release_version": "OB55",
+    "game_version": "1.134.15",
+    "device": {
+      "id": "Google|abdbf908-e735-4a7a-8f20-9809bb854cda",
+      "brand": "Xiaomi",
+      "model": "M2101K9G",
+      "android": "Android OS 13 / API-33",
+      "slot": 1,
+      "profile_index": 53
+    }
+  },
+  {
+    "uid": "8382919173",
+    "password": "A67DAB33FF03594049C2A2EBFAD38A12FE9B9B8EE0005F941AD992295C4F8624",
+    "name": "SEMY-Z⁰⁴⁹",
+    "account_id": "18963030915",
+    "open_id": "acda43056a56e56bdaf7db6b812e27d5",
+    "access_token": "17971f903dc15292a0af90040fb1c56278fb1edce607e65495897f10dc4ad83e",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAzMDkxNSwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhTaHVXQSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImFjZGE0MzA1NmE1NmU1NmJkYWY3ZGI2YjgxMmUyN2Q1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTkxNzMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAxMDB9._ArUf568D8DKJvrq2HMs4w6FxEhYtiJ9jgVbVYYSgmA",
+    "server_url": "https://client.ind.freefiremobile.com",
+    "server_time": 1793451300,
+    "release_version": "OB55",
+    "game_version": "1.134.15",
+    "device": {
+      "id": "Google|889ca2ca-6d43-4cc8-87a0-cefab323fa1e",
+      "brand": "Samsung",
+      "model": "SM-G780G",
+      "android": "Android OS 13 / API-33",
+      "slot": 1,
+      "profile_index": 39
+    }
+  },
+  {
+    "uid": "8382919633",
+    "password": "EFD3DF824AF7D536BFDA53FC7390E40631FE011B2B5274E79E37BDDD0066EA11",
+    "name": "SEMY-Z⁰⁵⁰",
+    "account_id": "18963032130",
+    "open_id": "1673719384b1e24981a396f7ba56e9bb",
+    "access_token": "f8a5a885e2cfea9eed69b20ba051fc013b9a722997899581c29371e12a2889c4",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODk2MzAzMjEzMCwibmlja25hbWUiOiJZaUI0WVJSaWdlTFMydVhUaHVXSiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjE2NzM3MTkzODRiMWUyNDk4MWEzOTZmN2JhNTZlOWJiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4xNSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjgzODI5MTk2MzMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTM0ODAxMDV9.7B7mjyxT186j62wJgAW-KBsVymTBKssFOpsksmK4FBg",
+    "server_url": "https://client.ind.freefiremobile.com",
+    "server_time": 1793451305,
+    "release_version": "OB55",
+    "game_version": "1.134.15",
+    "device": {
+      "id": "Google|3bc26c18-82cc-449e-bdac-fdfbd48ae9dc",
+      "brand": "Xiaomi",
+      "model": "23076RN4BI",
+      "android": "Android OS 14 / API-34",
+      "slot": 1,
+      "profile_index": 78
+    }
+  }
+]
